@@ -12,10 +12,11 @@ import cv2
 DATA_DIR = './data'
 if not os.path.exists(DATA_DIR):
     os.makedirs(DATA_DIR)
-
+#declaring number of directory to be created. One directory for each alphabet and for each alphabet 100 images will be taken
 number_of_classes = 24
 dataset_size = 100
 
+# capturing the image and saving it to directory. 
 cap = cv2.VideoCapture(0)
 for j in range(number_of_classes):
     if not os.path.exists(os.path.join(DATA_DIR, str(j))):
