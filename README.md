@@ -1,4 +1,4 @@
-# Sign Language Recognition using Random Forest Classifier — Intel oneAPI Optimised Scikit-Learn Library
+# Sign Language Recognition using MediaPipe and Random Forest Classifier — Intel oneAPI Optimised Scikit-Learn Library
 ## Problem Statement
 American sign Language, is a natural language that serves as the predominant sign language of Deaf communities. But, deaf people often have difficulties talking to abled people because not everyone knows all the alphabets of sign langauge. So, we need a mechanism to automate this.<br>
 ## Solution Strategy
