@@ -13,7 +13,7 @@ scikit-learn intelex<br>
 $pip install scikit-learn intelex
 $pip install opencv-python
 $pip install mediapipe
-$git clone https://github.com/RKJenamani/J.A.R.V.I.C..git 
+$git clone https://github.com/vatika17/signlanguage_recognition.git
 $cd signlanguage_recognition
 $python model_test.py
 ~~~~
