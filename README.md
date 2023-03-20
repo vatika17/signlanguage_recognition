@@ -9,6 +9,8 @@ The dataset is made manually by running the __*collecting_data.py*__ that collec
 opencv-python<br>
 mediapipe<br>
 scikit-learn intelex<br>
+Numpy<br>
+Pickle<br>
 ## To run signlanguage_recognition
 ~~~~
 $pip install scikit-learn intelex
